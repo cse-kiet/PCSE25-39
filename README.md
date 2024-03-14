@@ -1,3 +1,3 @@
-# Product Comparison System
+# Shoppers Point
 
 PCSE25-39
