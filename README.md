@@ -1,3 +1,3 @@
-# Object Detection for blind person
+# Object Detection Using Machine Learning
 
 PCSE25-39
