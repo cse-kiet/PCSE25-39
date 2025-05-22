@@ -1,10 +1,10 @@
 # Title of Project: [Object Detection Using Machine Learning]
 
 ## Team Members:
-1. [Vishal Soni (2100290100190)]
-2. [Vinay Upadhyay (2100290100189)]
-3. [Satyam Aditya (2100290100150)]
-4. [Sachin Kumar Yadav (2200290109013)]
+1. [Vishal Soni (2100290100190) Section-C]
+2. [Vinay Upadhyay (2100290100189) Section-C]
+3. [Satyam Aditya (2100290100150) Section C]
+4. [Sachin Kumar Yadav (2200290109013) Section C]
 
 ## Steps for Execution:
 1. Install required libraries using `pip install opencv-python numpy`.
